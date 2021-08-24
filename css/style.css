@@ -23,7 +23,7 @@ a.btn-login {
 span.ic-sx21 {
     width: 21px;
     height: 21px;
-    background: url(/icons/ic26.png) no-repeat;
+    background: url(../icons/ic26.png) no-repeat;
     background-size: contain;
     margin-left: 10px;
     float: left;
@@ -54,7 +54,7 @@ a.btn-startgames:hover {
 .drop-ed {
     width: 25px;
     height: 6px;
-    background: url(/icons/droped.png) no-repeat;
+    background: url(../icons/droped.png) no-repeat;
     background-size: contain;
     cursor: pointer;
 }
@@ -261,7 +261,7 @@ a.btn-view {
 span.ic-sx24 {
     width: 23px;
     height: 15px;
-    background: url(/icons/eye.png) no-repeat;
+    background: url(../icons/eye.png) no-repeat;
     background-size: contain;
     margin-left: 10px;
     float: left;
@@ -273,7 +273,7 @@ span.ic-info {
     width: 77px;
     height: 77px;
     display: -webkit-inline-box;
-    background: url(/icons/info.png) no-repeat;
+    background: url(../icons/info.png) no-repeat;
     border-radius: 100%;
     box-shadow: 0px 15px 65px 0px rgba(0, 0, 0, 0.15);
 }
@@ -297,7 +297,7 @@ span.time-data {
 }
 a.btn-view:after {
     content: "";
-    background: url(/icons/pt.png) no-repeat;
+    background: url(../icons/pt.png) no-repeat;
     width: 200px;
     height: 55px;
     display: block;
@@ -757,7 +757,7 @@ span.num-video:after {
 span.video-icons {
     width: 65px;
     height: 65px;
-    background: url(/icons/video.png);
+    background: url(../icons/video.png);
     display: block;
 }
 .promo-donate {
@@ -779,7 +779,7 @@ span.ic-love {
     width: 77px;
     height: 77px;
     display: -webkit-inline-box;
-    background: url(/icons/loved.png) no-repeat;
+    background: url(../icons/loved.png) no-repeat;
     border-radius: 100%;
     box-shadow: 0px 15px 65px 0px rgba(0, 0, 0, 0.15);
 }
@@ -811,7 +811,7 @@ a.love-donate {
 span.ic-loveb {
     width: 21px;
     height: 18px;
-    background: url(/icons/loveb.png) no-repeat;
+    background: url(../icons/loveb.png) no-repeat;
     background-size: contain;
     margin-left: 10px;
     float: left;
@@ -973,7 +973,7 @@ span.name-form:after {
 span.ic-g {
     width: 30px;
     height: 30px;
-    background: url(/icons/g.png) no-repeat;
+    background: url(../icons/g.png) no-repeat;
     display: -webkit-box;
 }
 
@@ -1086,7 +1086,7 @@ a.icon-vks {
 span.vk-btn {
     width: 43px;
     height: 20px;
-    background: url(/icons/vkr.png) no-repeat;
+    background: url(../icons/vkr.png) no-repeat;
     display: block;
 }
 
@@ -1137,7 +1137,7 @@ a.btn-startgames.lf {
 span.ic-dw {
     width: 22px;
     height: 22px;
-    background: url(/icons/dw.png) no-repeat;
+    background: url(../icons/dw.png) no-repeat;
     background-size: contain;
     margin-left: 10px;
     float: left;
