@@ -125,7 +125,7 @@ a.btn-startgames:hover {
       align-items: center;
     }
 	span.img-ste1 {
-    background: url(/icons/img-ste1.png) no-repeat;
+    background: url(../icons/img-ste1.png) no-repeat;
     display: block;
     width: 560px;
     height: 420px;
@@ -176,7 +176,7 @@ a.btn-drop {
 a.block-s1 {
     width: 256px;
     height: 130px;
-    background: url(/img/block-1s.png) no-repeat;
+    background: url(../img/block-1s.png) no-repeat;
     display: block;
     transition: .5s;
     margin-top: 100px;
@@ -210,7 +210,7 @@ a.block-s1:hover {
     transform: scale(1.05);
 }
 a.block-s1.p2 {
-    background: url(/img/block-2s.png) no-repeat;
+    background: url(../img/block-2s.png) no-repeat;
 }
 img.poster {
     float: left;
